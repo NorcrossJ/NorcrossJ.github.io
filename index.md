@@ -6,6 +6,10 @@ WIP.
 THIS CONTENT WILL BE HIDDEN AND DISPLAY onClick (display:none;)
 </div>
 
+<div id="box1" class="toggle-divs" style="display: block;">
+THIS CONTENT WILL AUTOMATICALLY BE DISPLAYED (display:block;)
+</div>
+
 ## Software Designing and Engineering: Encryption Project
 ```
 // ========================================================
