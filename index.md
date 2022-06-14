@@ -1,7 +1,7 @@
 ## Professional Self-Assessment
 
 WIP.
-![](Encryption 1.png)
+![image](Encryption 1.png)
 
 ## Software Designing and Engineering: Encryption Project
   
