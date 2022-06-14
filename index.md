@@ -4,7 +4,7 @@ WIP.
 
 
 ## Software Designing and Engineering: Encryption Project
-
+{::options parse_block_html="true" /}
 <details>
   <summary>Click to see code.</summary>
   
@@ -251,7 +251,8 @@ WIP.
   
 </details>
 
-
+{::options parse_block_html="false" /}
+  
 ## Algorithm and Data Structures: Vector Sorting Project
 
 ## Databases: MySQL Database Project
