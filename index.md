@@ -8,7 +8,8 @@ WIP.
 <details>
   <summary>Click to see code.</summary>
   
-  ```
+  
+```
 // ========================================================
 //This program reads a string of text from a file and encrypts it
 //using various encryption algorithms.
@@ -22,12 +23,7 @@ WIP.
 #include <sstream>
 #include <ctime>
 
-/// <summary>
 /// encrypt or decrypt a source string using the provided key and a XOR cipher
-/// </summary>
-/// <param name="source">input string to process</param>
-/// <param name="key">key to use in encryption / decryption</param>
-/// <returns>transformed string</returns>
 std::string xor_encrypt_decrypt(const std::string& source, const std::string& key)
 {
   // get lengths now instead of calling the function every time.
@@ -55,12 +51,7 @@ std::string xor_encrypt_decrypt(const std::string& source, const std::string& ke
   return output;
 }
 
-/// <summary>
 /// Encrypt source string using Caeser Cipher
-/// </summary>
-/// <param name="source">input string to process</param>
-/// <param name="key">key to use in encryption</param>
-/// <returns>transformed string</returns>
 std::string caesar_encrypt(const std::string& source, int key)
 {
 
@@ -102,12 +93,7 @@ std::string caesar_encrypt(const std::string& source, int key)
     return output;
 }
 
-/// <summary>
 /// Decrypt source string using Caeser Cipher
-/// </summary>
-/// <param name="source">input string to process</param>
-/// <param name="key">key to use in decryption</param>
-/// <returns>transformed string</returns>
 std::string caesar_decrypt(const std::string& source, int key)
 {
 
