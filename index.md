@@ -2,18 +2,13 @@
 
 WIP.
 
-<a href="javascript:toggle('box1');">ONE</a> : <a href="javascript:toggle('box2');">TWO</a>
-
-<div id="box1" class="toggle-divs" style="display: block;">
-THIS CONTENT WILL AUTOMATICALLY BE DISPLAYED (display:block;)
-</div>
-
-<div id="box2" class="toggle-divs" style="display: none;">
-THIS CONTENT WILL BE HIDDEN AND DISPLAY onClick (display:none;)
-</div>
 
 ## Software Designing and Engineering: Encryption Project
-```
+
+<details>
+  <summary>Click to see code.</summary>
+  
+  ```
 // ========================================================
 //This program reads a string of text from a file and encrypts it
 //using various encryption algorithms.
@@ -268,6 +263,10 @@ int main()
 
 }
 ```
+
+</details>
+
+
 ## Algorithm and Data Structures: Vector Sorting Project
 
 ## Databases: MySQL Database Project
