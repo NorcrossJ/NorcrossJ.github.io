@@ -1,11 +1,11 @@
 ## Professional Self-Assessment
 
 WIP.
-![image](https://github.com/NorcrossJ/NorcrossJ.github.io/blob/main/Encryption%202.png)
+
 
 ## Software Designing and Engineering: Encryption Project
-![Selecting the Caesar Cipher](https://github.com/NorcrossJ/NorcrossJ.github.io/blob/main/Encryption%201.png)
-![You can see that the above document was encrypted and became the second document](https://github.com/NorcrossJ/NorcrossJ.github.io/blob/main/Encryption%202.png)
+![Encryption 1](https://user-images.githubusercontent.com/79820705/173484378-a50b7c79-9ab8-47dc-8a5b-8f79046e8d3e.png)
+![Encryption 2](https://user-images.githubusercontent.com/79820705/173484388-e0ef4ce4-68e7-4c6f-89bd-145531a87f61.png)
 
 The artifact I chose to enhance is an encryption program from a Secure Coding course I took, and it was created in April of 2021. It is written in C++. The original program takes an input text file (with some pre-generated text), loads it into a string, and then performs a XOR encryption on it. The program then saves the string into a file called encrypteddatafile.txt. It then does the same thing to decrypt the text, saving the decrypted text into decrypteddatafile.txt. '
 	
