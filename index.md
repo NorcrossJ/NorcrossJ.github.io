@@ -2,12 +2,14 @@
 
 WIP.
 
-<div id="box2" class="toggle-divs" style="display: none;">
-THIS CONTENT WILL BE HIDDEN AND DISPLAY onClick (display:none;)
-</div>
+<a href="javascript:toggle('box1');">ONE</a> : <a href="javascript:toggle('box2');">TWO</a>
 
 <div id="box1" class="toggle-divs" style="display: block;">
 THIS CONTENT WILL AUTOMATICALLY BE DISPLAYED (display:block;)
+</div>
+
+<div id="box2" class="toggle-divs" style="display: none;">
+THIS CONTENT WILL BE HIDDEN AND DISPLAY onClick (display:none;)
 </div>
 
 ## Software Designing and Engineering: Encryption Project
