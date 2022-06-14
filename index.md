@@ -1,7 +1,8 @@
 ## Professional Self-Assessment
 
 WIP.
-![image](Encryption 1.png)
+image:
+![image]([Encryption 1.png](https://github.com/NorcrossJ/NorcrossJ.github.io/blob/main/Encryption%201.png))
 
 ## Software Designing and Engineering: Encryption Project
   
