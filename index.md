@@ -6,7 +6,9 @@ WIP.
 ## Software Designing and Engineering: Encryption Project
 
 <details>
-  <summary>Click to see code.</summary>
+  
+  <summary> Click to see code. </summary>
+  
   <p>
     
   ```cpp
@@ -249,7 +251,9 @@ WIP.
 
   }
 ```
+    
     </p>  
+    
     </details>
 
 
