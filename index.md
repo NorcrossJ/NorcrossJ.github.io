@@ -2,6 +2,10 @@
 
 WIP.
 
+<div id="box2" class="toggle-divs" style="display: none;">
+THIS CONTENT WILL BE HIDDEN AND DISPLAY onClick (display:none;)
+</div>
+
 ## Software Designing and Engineering: Encryption Project
 ```
 // ========================================================
