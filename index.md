@@ -1,6 +1,7 @@
 ## Professional Self-Assessment
 
 WIP.
+![image](https://github.com/NorcrossJ/NorcrossJ.github.io/blob/main/Encryption%202.png)
 
 ## Software Designing and Engineering: Encryption Project
 ![Selecting the Caesar Cipher](https://github.com/NorcrossJ/NorcrossJ.github.io/blob/main/Encryption%201.png)
