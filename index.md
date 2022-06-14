@@ -4,14 +4,8 @@ WIP.
 
 
 ## Software Designing and Engineering: Encryption Project
-
-<details>
   
-  <summary> Click to see code. </summary>
-  
-  <p>
-    
-  ```cpp
+```cpp
   // ========================================================
   //This program reads a string of text from a file and encrypts it
   //using various encryption algorithms.
@@ -251,12 +245,6 @@ WIP.
 
   }
 ```
-    
-    </p>  
-    
-    </details>
-
-
   
 ## Algorithm and Data Structures: Vector Sorting Project
 
