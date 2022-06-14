@@ -2,8 +2,8 @@
 
 WIP.
 
-## Software Designing and Engineering
+## Software Designing and Engineering: Encryption Project
 
-## Algorithm and Data Structures
+## Algorithm and Data Structures: Vector Sorting Project
 
-## Databases
+## Databases: MySQL Database Project
