@@ -6,7 +6,7 @@ WIP.
 	<summary>Click to expand</summary>
 	
 		
-	```cpp
+	```python
 		int x = 1;
 	```
 	
