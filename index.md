@@ -6,9 +6,11 @@ WIP.
 	<summary>Click to expand</summary>
 	
 		
-	```python
-		int x = 1;
-	```
+```python
+	
+print('Hello World!')
+	
+```
 	
 	
 
