@@ -8,7 +8,7 @@ WIP.
 		
 ```python
 	
-<pre>	
+<pre class="brush: python">	
 print('Hello World!')
 </pre>
 
