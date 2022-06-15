@@ -6,8 +6,10 @@ WIP.
 	<summary>Click to expand</summary>
 	<pre>
 		
-	'''cpp
+	```cpp
 	int x = 1;
+	```
+	
 	</pre>
 
 </details>
