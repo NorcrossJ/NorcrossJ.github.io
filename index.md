@@ -15,9 +15,8 @@ When enhancing the artifact, one challenge for me was getting the Caesar Cipher 
 ### Original Code
 
 ~~~cpp
-
-// Encryption.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+// Encryption.cpp : This file contains the 'main' function. 
+// Program execution begins and ends there.
 
 #include <cassert>
 #include <fstream>
