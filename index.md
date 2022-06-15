@@ -1180,6 +1180,15 @@ int main(int argc, char* argv[]) {
 
 ## Databases: MySQL Database Project
 
+To demonstrate this enhancement, I recorded a [short video]([link](https://www.youtube.com/watch?v=ngnQKZtPAnM)) to demonstrate my use of AWS and MySQL Workbench. 
+
+The original artifact was a SQL script that I wrote for an introductory SQL course (DAD 220) that I took at the end of 2019. The original project involved using a MySQL database. The script creates a database called “Messaging”, and then populates the database with various tables to simulate a database of messages sent between various Olympic athletes. The intention of the artifact was to demonstrate basic SQL skills. I chose this artifact for that exact purpose. The script contains basic SQL queries such as “CREATE”, “ALTER”, “UPDATE”, “INSERT”, “SELECT”, etc. It therefore demonstrates understanding of database concepts and a solid grasp of CRUD concepts. The artifact shows that I understand how to use SQL to create tables, insert rows and columns, and display the tables in increasingly complex ways using various joins. 
+
+The original project used a MySQL client and server that had already been set up before by the professor. Therefore, to enhance the project, I used Amazon’s AWS service to create and host my own database. Then, I used the MySQL Workbench to submit the queries to it. I did not significantly alter the script itself, though I did condense the content, clean up the comments, and add a few more create statements. Using AWS and the MySQL Workbench to host and query the database demonstrates the ability to use real-world tools to solve problems, and better showcases my ability to work with databases in the real world. Rather than just tinkering with a script to show my theoretical knowledge of databases, I used AWS and the MySQL workbench (two widely used tools) to put my knowledge and skills into a real, tangible product. I met the course outcomes I intended to meet. The use of AWS and MySQL workbench demonstrates, first and foremost, the ability to use real-world tools in computing practices to accomplish specific goals. It also demonstrates database administration skills and a firm grasp of SQL concepts. This accomplishes goal CS-499-04. 
+
+I had not used AWS or the MySQL Workbench before, so learning how to do so was both challenging and rewarding. I spent a lot of time reading documentation and tutorials so that I could get a solid grasp on AWS and the MySQL Workbench client. I faced some challenges in creating the database and getting the MySQL Workbench client to connect to it. I found myself unable to connect, and spent a good deal of time troubleshooting. As it turned out, I had a security feature turned on that disallowed access from my remote machine. Overall, I now have a much better understanding of how to create and manage databases in the real world, and how to connect to those databases to perform queries. 
+
+
 
 ### Original Code
 ```mysql
