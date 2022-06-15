@@ -1684,9 +1684,7 @@ message_image.message_id;
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
+
 
 ## Code Review
 I also created a [code review](https://youtu.be/1VZJ9geKjX0) at the beginning of the process documenting my intended enhancements. 
