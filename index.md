@@ -2,6 +2,16 @@
 
 WIP.
 
+<details>
+	<summary>Click to expand</summary>
+	<pre>
+		
+	'''cpp
+	int x = 1;
+	</pre>
+
+</details>
+
 
 ## Software Designing and Engineering: Encryption Project
 ![Encryption 1](https://user-images.githubusercontent.com/79820705/173484378-a50b7c79-9ab8-47dc-8a5b-8f79046e8d3e.png)
