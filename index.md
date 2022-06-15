@@ -1,6 +1,6 @@
 ## Professional Self-Assessment
 
-WIP.
+Throughout my final course, I worked on a capstone project wherein I enhanced some of my previous projects to demonstrate the skills I've learned. 
 
 ## Software Designing and Engineering: Encryption Project
 ![Encryption 1](https://user-images.githubusercontent.com/79820705/173484378-a50b7c79-9ab8-47dc-8a5b-8f79046e8d3e.png)
