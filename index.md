@@ -6,9 +6,9 @@ WIP.
 	<summary>Click to expand</summary>
 	
 		
-	~~~cpp
+	```cpp
 	int x = 1;
-	~~~
+	```
 	
 	
 
