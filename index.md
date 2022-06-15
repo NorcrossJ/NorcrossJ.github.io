@@ -162,6 +162,7 @@ int main()
 ```
 
 ### Enhanced Code
+
 ```cpp
   // ========================================================
   //This program reads a string of text from a file and encrypts it
@@ -762,8 +763,6 @@ int main(int argc, char* argv[]) {
 
     return 0;
 }
-
-
 ```
 
 
@@ -1175,7 +1174,6 @@ int main(int argc, char* argv[]) {
 
     return 0;
 }
-
 ```
 
 ## Databases: MySQL Database Project
