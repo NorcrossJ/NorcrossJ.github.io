@@ -4,13 +4,13 @@ WIP.
 
 <details>
 	<summary>Click to expand</summary>
-	<pre>
-		
-	```cpp
-	int x = 1;
-	```
 	
-	</pre>
+		
+	~~~cpp
+	int x = 1;
+	~~~
+	
+	
 
 </details>
 
