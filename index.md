@@ -2,10 +2,6 @@
 
 WIP.
 
-~~~cpp
-int x = 2;
-~~~
-
 ## Software Designing and Engineering: Encryption Project
 ![Encryption 1](https://user-images.githubusercontent.com/79820705/173484378-a50b7c79-9ab8-47dc-8a5b-8f79046e8d3e.png)
 ![Encryption 2](https://user-images.githubusercontent.com/79820705/173484388-e0ef4ce4-68e7-4c6f-89bd-145531a87f61.png)
@@ -16,6 +12,7 @@ I chose this artifact because it demonstrates several basic C++ competencies, su
 	
 When enhancing the artifact, one challenge for me was getting the Caesar Cipher to work. The famous Caesar Cipher is something that is easy to conceptualize and do on paper, but is much harder to do with C++. For example, using a key of four is easy to do in your head because we all know the alphabet by heart and can shift the letters easily. However, the algorithm to do that needs to be explicitly stated in the code, and there is no easy shortcut to perform that kind of shift due to the way letters are represented in the code. The solution I ended up using is a rather ugly (yet effective) series of if and else if statements in a for loop that iterates through the string and transforms the characters based on whether they are upper or lower case. Coming up with this solution required me to look on Github and other similar solutions, as well as looking at C++ documentation and learning how characters are represented in the code. I had to learn what it meant to “add” a number to a character to transform it into a different one. Overall, improving the artifact gave me a deeper understanding of the inner workings of the language.
 
+### Original Code
 
 ~~~cpp
 
@@ -162,6 +159,10 @@ int main()
 // Debug program: F5 or Debug > Start Debugging menu
 
 ~~~
+
+<br>
+<br>
+### Enhanced Code
 
 ```cpp
   // ========================================================
