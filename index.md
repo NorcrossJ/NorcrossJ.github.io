@@ -422,6 +422,29 @@ int main()
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Algorithm and Data Structures: Vector Sorting Project
 ![image](https://user-images.githubusercontent.com/79820705/173485528-772da47a-ebd6-42f5-bb5a-159a060cc530.png)
@@ -785,8 +808,6 @@ int main(int argc, char* argv[]) {
 }
 ```
 
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -1223,6 +1244,13 @@ int main(int argc, char* argv[]) {
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Databases: MySQL Database Project
 
@@ -1352,6 +1380,7 @@ select * from message;
 
 ```
 
+<br>
 <br>
 <br>
 <br>
