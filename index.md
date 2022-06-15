@@ -1,3 +1,7 @@
+code {
+  white-space : pre-wrap !important;
+}
+
 ## Professional Self-Assessment
 
 WIP.
@@ -1210,7 +1214,7 @@ int main(int argc, char* argv[]) {
 
 ## Databases: MySQL Database Project
 
-To demonstrate this enhancement, I recorded a [short video]([link](https://www.youtube.com/watch?v=ngnQKZtPAnM)) to demonstrate my use of AWS and MySQL Workbench. 
+To demonstrate this enhancement, I recorded a [short video](https://www.youtube.com/watch?v=ngnQKZtPAnM) to demonstrate my use of AWS and MySQL Workbench. 
 
 The original artifact was a SQL script that I wrote for an introductory SQL course (DAD 220) that I took at the end of 2019. The original project involved using a MySQL database. The script creates a database called “Messaging”, and then populates the database with various tables to simulate a database of messages sent between various Olympic athletes. The intention of the artifact was to demonstrate basic SQL skills. I chose this artifact for that exact purpose. The script contains basic SQL queries such as “CREATE”, “ALTER”, “UPDATE”, “INSERT”, “SELECT”, etc. It therefore demonstrates understanding of database concepts and a solid grasp of CRUD concepts. The artifact shows that I understand how to use SQL to create tables, insert rows and columns, and display the tables in increasingly complex ways using various joins. 
 
