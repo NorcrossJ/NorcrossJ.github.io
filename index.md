@@ -31,7 +31,8 @@ When enhancing the artifact, one challenge for me was getting the Caesar Cipher 
 /// <param name="source">input string to process</param>
 /// <param name="key">key to use in encryption / decryption</param>
 /// <returns>transformed string</returns>
-std::string encrypt_decrypt(const std::string& source, const std::string& key) {
+std::string encrypt_decrypt(const std::string& source, const std::string& key) 
+{
   // get lengths now instead of calling the function every time.
   // this would have most likely been inlined by the compiler, but design for perfomance.
   const auto key_length = key.length();
@@ -158,6 +159,13 @@ int main()
 
 ~~~
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 ### Enhanced Code
@@ -403,7 +411,17 @@ int main()
   }
   
 ```
-  
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## Algorithm and Data Structures: Vector Sorting Project
 ![image](https://user-images.githubusercontent.com/79820705/173485528-772da47a-ebd6-42f5-bb5a-159a060cc530.png)
 
@@ -766,7 +784,21 @@ int main(int argc, char* argv[]) {
 }
 ```
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ### Enhanced Code
 
 ```cpp
@@ -1177,6 +1209,18 @@ int main(int argc, char* argv[]) {
 }
 ```
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ## Databases: MySQL Database Project
 
 To demonstrate this enhancement, I recorded a [short video](https://www.youtube.com/watch?v=ngnQKZtPAnM) to demonstrate my use of AWS and MySQL Workbench. 
@@ -1304,6 +1348,10 @@ select * from contact_list;
 select * from message;
 
 ```
+
+<br>
+<br>
+<br>
 
 ### Enhanced Code
 
