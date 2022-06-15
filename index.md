@@ -168,6 +168,7 @@ int main()
 <br>
 <br>
 <br>
+
 ### Enhanced Code
 
 ```cpp
@@ -799,6 +800,7 @@ int main(int argc, char* argv[]) {
 <br>
 <br>
 <br>
+
 ### Enhanced Code
 
 ```cpp
@@ -1221,6 +1223,7 @@ int main(int argc, char* argv[]) {
 <br>
 <br>
 <br>
+
 ## Databases: MySQL Database Project
 
 To demonstrate this enhancement, I recorded a [short video](https://www.youtube.com/watch?v=ngnQKZtPAnM) to demonstrate my use of AWS and MySQL Workbench. 
