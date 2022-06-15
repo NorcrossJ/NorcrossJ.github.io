@@ -21,7 +21,7 @@ When enhancing the artifact, one challenge for me was getting the Caesar Cipher 
 
 
 
-```cpp
+~~~cpp
 
 // Encryption.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
@@ -165,36 +165,7 @@ int main()
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
 
-```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+~~~
 
 ### Enhanced Code
 
