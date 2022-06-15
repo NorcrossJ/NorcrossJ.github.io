@@ -31,8 +31,7 @@ When enhancing the artifact, one challenge for me was getting the Caesar Cipher 
 /// <param name="source">input string to process</param>
 /// <param name="key">key to use in encryption / decryption</param>
 /// <returns>transformed string</returns>
-std::string encrypt_decrypt(const std::string& source, const std::string& key)
-{
+std::string encrypt_decrypt(const std::string& source, const std::string& key) {
   // get lengths now instead of calling the function every time.
   // this would have most likely been inlined by the compiler, but design for perfomance.
   const auto key_length = key.length();
