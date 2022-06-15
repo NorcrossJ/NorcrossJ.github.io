@@ -17,6 +17,7 @@ When enhancing the artifact, one challenge for me was getting the Caesar Cipher 
 ### Original Code
 
 ```cpp
+
 // Encryption.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
@@ -402,6 +403,7 @@ int main()
     system("pause");
 
   }
+  
 ```
   
 ## Algorithm and Data Structures: Vector Sorting Project
@@ -418,6 +420,7 @@ The original code was, somehow, not complete when I began my enhancement. Some o
 ### Original Code
 
 ```cpp
+
 //============================================================================
 // Name        : VectorSorting.cpp
 // Author      : Jeremiah Norcross
@@ -1303,6 +1306,7 @@ select * from contact_list;
 select * from message;
 
 ```
+
 ### Enhanced Code
 
 ```mysql
@@ -1590,5 +1594,6 @@ WHERE
 message.message_id = message_image.message_id
 GROUP BY
 message_image.message_id;
+
 ```
 
